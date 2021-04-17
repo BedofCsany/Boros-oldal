@@ -1,4 +1,4 @@
-# Boros-oldal
+# Borosüveges oldal
 
 Ez csak egy fantázianév.
 Gyakorlásként használtam a 
